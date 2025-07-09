@@ -1,0 +1,6 @@
+langchain>=0.1.20
+cohere
+chromadb
+PyPDF2
+streamlit
+python-dotenv
