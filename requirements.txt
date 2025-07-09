@@ -1,6 +1,8 @@
-langchain>=0.1.20
+streamlit
+langchain
+langchain-community
+langchain-cohere
 cohere
 chromadb
 PyPDF2
-streamlit
 python-dotenv
