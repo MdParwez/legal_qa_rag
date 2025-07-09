@@ -2,12 +2,10 @@
 
 This project is a **Retrieval-Augmented Generation (RAG)** based **Legal Document Question Answering System** built using:
 
-- 🦜 LangChain (latest modular v0.2+)
+- 🦜 LangChain 
 - 📄 PDF loaders
 - ⚡ Cohere Embeddings & LLM
 - 📚 Chroma vector store
-- 🚀 Deployed with Streamlit
-- 🔐 Secrets managed securely via `.env` and Streamlit Cloud
 
 ---
 
