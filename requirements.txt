@@ -4,5 +4,5 @@ langchain-community
 langchain-cohere
 cohere
 chromadb
-PyPDF2
+PyPDF
 python-dotenv
